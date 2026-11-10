@@ -127,6 +127,7 @@ Note: "pushed" means the most recent push to any branch, which is a close proxy 
 - [vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) ![GitHub stars](https://img.shields.io/github/stars/vmoranv/jshookmcp?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/vmoranv/jshookmcp?style=flat) - Reverse-engineering workspace with 735 tools.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) ![GitHub stars](https://img.shields.io/github/stars/opentabs-dev/opentabs?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/opentabs-dev/opentabs?style=flat) - Call web app APIs instead of clicking buttons.
 - [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) ![GitHub stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright_mcp?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/feder-cr/invisible_playwright_mcp?style=flat) - Undetected Playwright MCP server.
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) ![GitHub stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/vostride/agent-qa?style=flat) - Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement, and a local MCP server for tests and evidence. [Website](https://vostride.com).
 
 ## Images, Video & Audio Operation
 
